@@ -18,7 +18,7 @@ This page lists all major characters in **A Random Gear Journey**.
 **Description:** A mysterious fighter who moves like a shadow across the battlefield.  
 **Ability – Ghostwalk:**  
 • Becomes invisible for **15 seconds**  
-• Enemies cannot see or target him during this time  
+• Enemies cannot see or target them during this time  
 **Playstyle:** hit-and-run, stealth-based combat.
 
 ---
