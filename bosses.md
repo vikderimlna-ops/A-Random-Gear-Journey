@@ -43,7 +43,7 @@ A broken test rig that gained consciousness and escaped the Studio. He’s the s
 
 ---
 
-### 🧪 Mr. Cyro (The Doctor)
+### 💉 Mr. Cyro (The Doctor)
 **Role:** Control / Debuffer  
 **Weapon:** Needles
 
@@ -78,13 +78,13 @@ The oldest brother of Azul and Rojo. Left behind the Gate, abandoned by his sibl
 • You can only play as **Azul or Rojo**
 
 **Abilities & Mechanics:**  
-• Fires **extremely powerful hyperlasers**  
+• Fires **extremely powerful lasers**  
 • High damage and precision  
 • Aggressive, relentless attacks  
 
 ---
 
-### 💉 Corin
+### ⚕️ Corin
 **Role:** Healer / Support Boss  
 **Weapon:** Regeneration Coil
 
