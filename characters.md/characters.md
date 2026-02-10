@@ -19,7 +19,7 @@ This page lists all major characters in **A Random Gear Journey**.
 **Ability – Ghostwalk:**  
 • Becomes invisible for **15 seconds**  
 • Enemies cannot see or target him during this time  
-**Playstyle:** хит-and-run, stealth-based combat.
+**Playstyle:** hit-and-run, stealth-based combat.
 
 ---
 
