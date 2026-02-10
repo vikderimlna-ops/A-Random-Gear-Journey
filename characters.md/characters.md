@@ -23,7 +23,7 @@ This page lists all major characters in **A Random Gear Journey**.
 
 ---
 
-### 🌿 Enwer
+### 🌿 Emper
 **Role:** Healer / Support  
 **Weapon:** Healing Staff  
 **Description:** A gentle and fast-moving healer who avoids direct combat.  
