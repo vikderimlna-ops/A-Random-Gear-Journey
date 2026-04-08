@@ -117,7 +117,7 @@ She looks like a child, but she’s ancient. Hides her face behind a bear mask a
 ### 👁️ Spectator (Final Boss)
 **Role:** World Controller  
 **Height:** 5km+ Tall  
-**Eye:** Single Red Eye
+**Eye:** Single Big Red Eye
 
 **Description:**  
 The final enemy. He collected every toolbox and gained control over reality itself. Watching everything… judging everything.
@@ -127,7 +127,7 @@ The final enemy. He collected every toolbox and gained control over reality itse
 • Massive scale attacks  
 • Controls terrain and gravity  
 • Final test of everything you’ve learned  
-• **Earthquake** – Slams the ground, creating massive shockwaves that knock players down and break platforms
+• **Earthquake,** Slams the ground, creating massive shockwaves that knock players down and break platforms
 
 ---
 
